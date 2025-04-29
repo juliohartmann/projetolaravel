@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Título de login</title>
+    <title>Título de login da Branch pagina-de-login</title>
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
     <script>
         // Função para exibir um alerta antes de enviar o formulário
